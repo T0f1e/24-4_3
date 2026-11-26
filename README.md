@@ -40,3 +40,4 @@ node index.js
 
 - Backend: Node.js, Express, SQLite (better-sqlite3), bcryptjs, JWT
 - Frontend: Vanilla JavaScript, HTML5, CSS3
+.
